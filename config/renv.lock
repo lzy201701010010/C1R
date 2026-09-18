@@ -1,0 +1,21 @@
+{
+  "R": {
+    "Version": "4.4.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "Matrix": {"Package":"Matrix","Version":"1.7-1","Source":"Repository","Repository":"CRAN"},
+    "data.table": {"Package":"data.table","Version":"1.18.4","Source":"Repository","Repository":"CRAN"},
+    "digest": {"Package":"digest","Version":"0.6.37","Source":"Repository","Repository":"CRAN"},
+    "jsonlite": {"Package":"jsonlite","Version":"2.0.0","Source":"Repository","Repository":"CRAN"},
+    "lmtest": {"Package":"lmtest","Version":"0.9-40","Source":"Repository","Repository":"CRAN"},
+    "renv": {"Package":"renv","Version":"1.1.5","Source":"Repository","Repository":"CRAN"},
+    "sandwich": {"Package":"sandwich","Version":"3.1-1","Source":"Repository","Repository":"CRAN"},
+    "zoo": {"Package":"zoo","Version":"1.8-14","Source":"Repository","Repository":"CRAN"}
+  }
+}
