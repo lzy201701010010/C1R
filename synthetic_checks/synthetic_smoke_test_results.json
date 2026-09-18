@@ -1,0 +1,48 @@
+{
+  "checks": {
+    "average_zero_ties": true,
+    "duplicate_collapse": true,
+    "model_rank_two": true,
+    "normalized_rank_bounds": true,
+    "ols_hc3_finite": true,
+    "output_writing": true,
+    "post_rank_selection": true,
+    "sample_median_then_donor_mean": true,
+    "synthetic_identifiers_only": true
+  },
+  "core_mechanics_status": "PASS",
+  "full_target_environment_status": "PASS",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14",
+  "required_module_availability": {
+    "anndata": true,
+    "h5py": true,
+    "numpy": true,
+    "pandas": true,
+    "pyarrow": true,
+    "scanpy": true,
+    "scipy": true,
+    "statsmodels": true,
+    "zarr": true
+  },
+  "seed": 20260907,
+  "synthetic_dimensions": {
+    "cells": 36,
+    "collapsed_features": 11,
+    "donors": 6,
+    "samples": 12,
+    "source_features": 12
+  },
+  "synthetic_model": {
+    "beta": -0.3149293630926774,
+    "hc3_se": 0.8295408610398048,
+    "max_leverage": 0.5394108280254776,
+    "n": 6,
+    "rank": 2,
+    "two_sided_normal_p": 0.7042104531147435,
+    "wald_z": -0.3796429782830984
+  },
+  "test_kind": "SYNTHETIC_ONLY_NO_REAL_SAMPLES_GENES_OR_DISTRIBUTIONS"
+}

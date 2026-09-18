@@ -1,0 +1,39 @@
+{
+  "test_kind": "SYNTHETIC_ONLY_NO_REAL_SAMPLES_GENES_OR_DISTRIBUTIONS",
+  "seed": 20260907,
+  "R": "R version 4.4.2 (2024-10-31 ucrt)",
+  "packages": {
+    "Matrix": "1.7.1",
+    "data.table": "1.18.4",
+    "sandwich": "3.1.1",
+    "lmtest": "0.9.40",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.37",
+    "renv": "1.1.5",
+    "zoo": "1.8.14"
+  },
+  "expected_packages": {
+    "Matrix": "1.7.1",
+    "data.table": "1.18.4",
+    "sandwich": "3.1.1",
+    "lmtest": "0.9.40",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.37",
+    "renv": "1.1.5",
+    "zoo": "1.8.14"
+  },
+  "checks": {
+    "synthetic_identifiers_only": true,
+    "six_donors": true,
+    "design_rank_two": true,
+    "finite_hc3": true,
+    "finite_coefficient_test": true,
+    "exact_package_versions": true
+  },
+  "synthetic_model": {
+    "beta": 0.998615307693713,
+    "hc3_se": 0.0512044477359039,
+    "p": 4.07581991065081e-05
+  },
+  "status": "PASS"
+}
