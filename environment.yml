@@ -1,0 +1,26 @@
+name: c1r-preoutcome-v1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.14
+  - numpy=2.3.5
+  - pandas=3.0.1
+  - scipy=1.16.2
+  - statsmodels=0.14.5
+  - scanpy=1.11.4
+  - anndata=0.12.2
+  - h5py=3.14.0
+  - zarr=3.1.2
+  - pyarrow=21.0.0
+  - matplotlib=3.10.6
+  - seaborn=0.13.2
+  # Proposed combined spec only; not solve-tested or execution-validated.
+  - r-base=4.4.2
+  - r-ggplot2=4.0.2
+  - r-patchwork=1.3.2
+  - r-dplyr=1.1.4
+  - r-tidyr=1.3.2
+  - r-jsonlite=2.0.0
+  - r-svglite=2.2.2
+  - r-digest=0.6.37
+  - pip
