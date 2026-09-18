@@ -1,0 +1,7 @@
+analysis_id	analysis	status	label	input	result_summary	authority_effect	limitation
+EX01	SP02_LOCAL_GO_REACTOME_ORA	COMPLETED_WITH_POSTRESULT_MULTIPLICITY_CORRECTION	EXPLORATORY	MUC6;BPIFB1;AQP5;PGC	FULL_TEST_FAMILY=13362;OVERLAP_GE2_CANDIDATES=20;BH_REPORTABLE_TERMS=1	NONE	Four-gene query; annotation-dependent; no causal or directional inference; first-pass 20-term BH result superseded.
+EX02	SOURCE_BOUND_LITERATURE_CONTEXTUALIZATION	COMPLETED	EXPLORATORY_CONTEXT	SP02 exact marker identity and intestinal metaplasia terms	INCLUDED_SOURCES=7	NONE	Contextual only; source-proximal paper is not independent validation.
+EX03	FROZEN_MARKER_FUNCTION_ANNOTATION	COMPLETED	DESCRIPTIVE	MUC6;BPIFB1;AQP5;PGC	FOUR_OF_FOUR_ANNOTATED_WITH_LIMITATIONS	NONE	Gene functions are not measured SP02 phenotypes.
+EX04	GPROFILER_CUSTOM_BACKGROUND_POST	BLOCKED_PRE_RESPONSE_NO_RESULT	TECHNICAL_RECORD	Four genes plus 15851-gene custom background	NO_RESPONSE_OBTAINED;SUPERSEDED_BY_LOCAL_ORA	NONE	Outbound project-derived background was not authorized.
+EX05	MARKER_EXPRESSION_DISTRIBUTION_VISUALIZATION	NOT_RUN_NOT_REQUIRED	EXPLORATORY	NA	NOT_EXECUTED	NONE	Would add no necessary evidence for the bounded contextualization deliverables.
+EX06	SECONDARY_STATE_DEEP_CONTEXTUALIZATION	NOT_RUN_SCOPE_BOUND	NOT_APPLICABLE	SP01;SP03;SP04;SP05;SP06;SP07	INVENTORY_ONLY	NONE	Avoids plausibility-driven promotion of secondary states.
