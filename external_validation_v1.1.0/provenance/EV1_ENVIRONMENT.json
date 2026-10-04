@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "[HISTORICAL_LOCAL_EXECUTABLE_REDACTED]",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "scipy": "1.16.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "available_memory_bytes": 17688223744,
+  "free_disk_bytes": 293672206336,
+  "randomness": "NONE; deterministic primary analysis",
+  "timestamp": "2026-10-03T17:22:39.555035+08:00"
+}

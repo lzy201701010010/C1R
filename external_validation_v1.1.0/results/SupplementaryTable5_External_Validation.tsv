@@ -1,0 +1,2 @@
+dataset	compartment	cells	samples	donors	SP02_coverage	GP_IBD_mask_coverage	beta	hc3_se	ci95_lower	ci95_upper	raw_two_sided_p	direction	classification
+GSE266546	AC_Endoscopy_active_CD_epithelial	15989	19	18	4/4	324/353	-0.8733427110771581	0.123952912250257	-1.1162859548665156	-0.6303994672878007	1.8444937631118763e-12	CONCORDANT	EXTERNAL_REPLICATION_SUPPORTED

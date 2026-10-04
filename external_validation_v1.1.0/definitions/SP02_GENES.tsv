@@ -1,0 +1,5 @@
+gene_id	gene_symbol	state_membership_basis	source
+MUC6	MUC6	Exact fixed prior-project registry	historical RA01 fixed prior-project registry; original EV4 hash retained in EV5A repair log
+BPIFB1	BPIFB1	Exact fixed prior-project registry	historical RA01 fixed prior-project registry; original EV4 hash retained in EV5A repair log
+AQP5	AQP5	Exact fixed prior-project registry	historical RA01 fixed prior-project registry; original EV4 hash retained in EV5A repair log
+PGC	PGC	Exact fixed prior-project registry	historical RA01 fixed prior-project registry; original EV4 hash retained in EV5A repair log

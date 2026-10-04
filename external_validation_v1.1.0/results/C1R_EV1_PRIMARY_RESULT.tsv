@@ -1,0 +1,2 @@
+target	n_complete_donors	status	failure_reason	beta	hc3_se	ci95_lower	ci95_upper	raw_two_sided_p	wald_z	classification	direction	closed_form_max_delta	model_rank	residual_df	minimum_one_minus_leverage	predictor_sd	outcome_sd
+GP_IBD_GCST004131_V1_x_SP02	18	ESTIMABLE	NONE	-0.8733427110771581	0.123952912250257	-1.1162859548665156	-0.6303994672878007	1.8444937631118763e-12	-7.045761936709538	EXTERNAL_REPLICATION_SUPPORTED	CONCORDANT	7.91033905045424e-16	2	16	0.6571406410919625	0.004594529952287044	0.01062890178637226
